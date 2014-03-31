@@ -1,4 +1,0 @@
-Taskboard
-=========
-
-Taskboard repository
