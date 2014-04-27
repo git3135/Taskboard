@@ -46,7 +46,7 @@
         <path refid="project.class.path"/>
       </classpath>
       <!-- add jvmarg -Xss16M or similar if you see a StackOverflowError -->
-        <jvmarg value="-Xmx600M"/>
+        <jvmarg value="-Xmx256M"/>
         <jvmarg value="-Xss32M"/>
       <!-- Additional arguments like -style PRETTY or -logLevel DEBUG -->
       <arg value="com.lexemus.task.Task"/>
